@@ -1,4 +1,4 @@
-# Salut, je suis Théo (ned0x1)
+# Salut, je suis Théo (Ned0x)
 
 Ex-pentester @ XMCO (stage)
 
