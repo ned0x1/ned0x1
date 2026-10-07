@@ -8,6 +8,6 @@ Ex-pentester @ XMCO (stage)
 
 Developing cool stuff.
 
-- [**nixos-theo**](https://github.com/ned0x1/nixos-theo) — Ma config NixOS déclarative
-- [**Kudzu**](https://github.com/ned0x1/Kudzu) — Générateur de wordlists ciblées pour password spraying, construit à partir de mots de passe trouvés en audit
-- [**my-resources**](https://github.com/ned0x1/my-resources) — Mes ressources pour Exegol
+- [**nixos-theo**](https://github.com/ned0x1/nixos-theo) - Ma config NixOS déclarative
+- [**Kudzu**](https://github.com/ned0x1/Kudzu) - Générateur de wordlists ciblées pour password spraying, construit à partir de mots de passe trouvés en audit
+- [**my-resources**](https://github.com/ned0x1/my-resources) - Mes ressources pour Exegol
